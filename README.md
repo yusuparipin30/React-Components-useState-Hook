@@ -1,3 +1,6 @@
+# useState Hook
+UseState hook memungkinkan kita untuk mendefinisikan suatu state, mendefinisikan initial value pada state, serta mengupdate value suatu state.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
